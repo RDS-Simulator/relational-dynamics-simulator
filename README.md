@@ -18,6 +18,17 @@ It is a structured relational simulation model based on:
 - Strategic response modeling  
 
 The objective is not conversation, but controlled decision training through structured interaction.
+## Use Cases
+
+RDS can be applied in:
+
+- Executive decision training  
+- Conflict management simulation  
+- Leadership response modeling  
+- High-pressure negotiation scenarios  
+
+Designed for professionals operating in complex relational environments.
+
 ## Status
 
 Work in progress.
