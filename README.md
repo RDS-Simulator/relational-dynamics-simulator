@@ -45,6 +45,30 @@ Built for:
 
 Not intended for casual conversation or entertainment use.
 
+## Roadmap
+
+RDS development roadmap:
+
+Phase 1 – Concept Structuring
+- Definition of core architecture
+- Role-based simulation design
+- Multi-layer feedback model
+
+Phase 2 – Prototype Environment
+- Interactive scenario framework
+- Structured decision paths
+- Analytical response scoring logic
+
+Phase 3 – Professional Application
+- Executive training modules
+- Conflict simulation packages
+- High-pressure negotiation environments
+
+Phase 4 – Deployment Model
+- Enterprise demo version
+- Private access model
+- Scalable implementation structure
+
 ## Status
 
 Work in progress.
