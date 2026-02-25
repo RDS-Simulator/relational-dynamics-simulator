@@ -71,4 +71,4 @@ Phase 4 – Deployment Model
 
 ## Status
 
-Work in progress.
+Early-stage structured framework under active development.
