@@ -69,6 +69,14 @@ Phase 4 – Deployment Model
 - Private access model
 - Scalable implementation structure
 
+- ## Collaboration
+
+RDS is open to professional collaboration and strategic discussion.
+
+If you are a decision-maker, executive, researcher, or product developer interested in structured relational simulation frameworks, feel free to connect.
+
+This project is currently in early-stage development and open to dialogue with serious contributors.
+
 ## Status
 
 Early-stage structured framework under active development.
